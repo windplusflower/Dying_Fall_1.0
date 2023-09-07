@@ -1,0 +1,1333 @@
+{
+  "$type": "DecorationMaster.ItemSettings, DecorationMaster",
+  "scene_name": "Ruins2_10b",
+  "mod_version": 0.5,
+  "items": {
+    "$type": "System.Collections.Generic.List`1[[DecorationMaster.Item, DecorationMaster]], mscorlib",
+    "$values": [
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 274,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.64860439,
+          "y": 139.115524
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 262,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.641958,
+          "y": 129.142487
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 259,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.34976768,
+          "y": 119.534294
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 272,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.329666,
+          "y": 110.553711
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.731941,
+          "y": 100.697617
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 3.18116,
+          "y": 91.3534241
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 259,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 3.243845,
+          "y": 81.97461
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 277,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 3.06726742,
+          "y": 73.4582748
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 262,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 3.168254,
+          "y": 63.43813
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.51593971,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.29163551,
+          "y": 57.82093
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 269,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.8924322,
+          "y": 52.5624237
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 262,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.8898144,
+          "y": 45.39374
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.99412763,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.875741,
+          "y": 38.18016
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 267,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 7.017247,
+          "y": 28.7566738
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 267,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.57424259,
+          "y": 11.43054
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 28.5824013,
+          "y": 8.653352
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 27.63759,
+          "y": 14.9221354
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 0.559563756,
+        "angle": 176,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 29.0415535,
+          "y": 12.5125542
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.39010072,
+        "angle": 138,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 25.5262871,
+          "y": 19.6204243
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.2884445,
+          "y": 23.5278015
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.830537,
+        "angle": 43,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 24.63818,
+          "y": 28.3868446
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 60,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.08775,
+          "y": 28.8901348
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 86,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 20.85377,
+          "y": 26.633276
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 14.9383907,
+          "y": 18.8687267
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.478188,
+        "angle": 272,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 19.7081375,
+          "y": 15.5341082
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.66382027,
+          "y": 20.2200432
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 25.8520546,
+          "y": 37.3126678
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.6280327,
+          "y": 46.9469337
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 88,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.4528217,
+          "y": 56.40328
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.6741257,
+          "y": 75.68632
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 81,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.7781982,
+          "y": 85.08432
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.8980751,
+          "y": 94.21383
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 86,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.5578022,
+          "y": 103.23452
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 88,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 25.3130474,
+          "y": 112.625717
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.3028526,
+          "y": 122.533791
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 126,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.6483727,
+          "y": 130.147964
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 17.3308277,
+          "y": 134.39064
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 12.30545,
+          "y": 134.0907
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.2256632,
+          "y": 133.865753
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 14.530015,
+          "y": 134.030716
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.936508,
+          "y": 124.839478
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 15.1164875,
+          "y": 125.019447
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.0675926,
+          "y": 125.139427
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.2106667,
+          "y": 117.134018
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 19.7438126,
+          "y": 117.448952
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.85168,
+          "y": 106.204834
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.6057453,
+          "y": 106.534767
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 18.925087,
+          "y": 107.074646
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.7846241,
+          "y": 107.3446
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 123,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 18.375679,
+          "y": 104.160362
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 272,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 13.4212942,
+          "y": 104.400322
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.7991619,
+          "y": 101.882683
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 7.59568834,
+          "y": 101.117836
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 22.6639214,
+          "y": 102.947472
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.8725224,
+          "y": 97.60853
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 17.5895653,
+          "y": 97.98345
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 22.2514534,
+          "y": 97.89347
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.596731,
+          "y": 96.9936447
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 25.118084,
+          "y": 98.2384
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 13.0604582,
+          "y": 90.08554
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 8.059739,
+          "y": 89.77061
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 20.1223545,
+          "y": 90.2955
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 24.8563023,
+          "y": 90.16052
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 7.592086,
+          "y": 83.79347
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 12.5666561,
+          "y": 84.04842
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 14.455184,
+          "y": 84.12985
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 21.3729877,
+          "y": 84.4147949
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.4984055,
+          "y": 84.354805
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.297121,
+          "y": 79.29324
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.0751591,
+          "y": 79.5931854
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 13.1914358,
+          "y": 79.98311
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 20.50843,
+          "y": 80.28305
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 24.1732712,
+          "y": 80.523
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 6.85789776,
+          "y": 72.81696
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.3807888,
+          "y": 73.1319046
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 18.84244,
+          "y": 73.59681
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.2991486,
+          "y": 73.89675
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 12.23562,
+          "y": 67.55143
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 5.19947529,
+          "y": 59.1069565
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "Ruins2_10b",
+        "pname": "IMG_fireball",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 0.890889168,
+          "y": 44.555027
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "Ruins2_10b",
+        "pname": "IMG_quake",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 0.847703934,
+          "y": 44.58502
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "Ruins2_10b",
+        "pname": "IMG_scream",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 0.72618866,
+          "y": 44.4800377
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.Bench+BenchItem, DecorationMaster",
+        "bench_name": "D_bench1_921397_94028591",
+        "sceneName": "Ruins2_10b",
+        "pname": "HK_bench",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 25.498312,
+          "y": 136.681931
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.9008827,
+          "y": 37.63884
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 15.4865952,
+          "y": 38.0813141
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 19.3892136,
+          "y": 38.27628
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 267,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.27069759,
+          "y": 148.3059
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.56697369,
+          "y": 157.4979
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 264,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 4.6327095,
+          "y": 166.9469
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.49077189,
+        "angle": 234,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 5.539219,
+          "y": 174.97879
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+LoreTablet1, DecorationMaster",
+        "Text": "DYING FALL 1.0",
+        "size": 0.7357383,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "HK_lore_tablet_1",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 21.9387131,
+          "y": 136.912827
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 27.8025551,
+          "y": 140.537674
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 27.8025551,
+          "y": 140.537674
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "IMG_MonarchWings",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 1.30277252,
+          "y": 145.949036
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "Ruins2_10b",
+        "pname": "IMG_supserdash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 1.00283146,
+          "y": 144.043228
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 17.5792122,
+          "y": 67.90942
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 23.0068836,
+          "y": 68.26935
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 83,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 26.350441,
+          "y": 66.07977
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 24.6030273,
+          "y": 9.426857
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 27.5875511,
+          "y": 9.644522
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 18.6256123,
+          "y": 33.9287529
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 121,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 22.6834145,
+          "y": 20.70452
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 307,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 19.7439919,
+          "y": 17.570137
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 19.2790775,
+          "y": 30.1814346
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+LoreTablet1, DecorationMaster",
+        "Text": "THX FOR PLAYING!",
+        "size": 0.5847315,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "HK_lore_tablet_1",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 21.669899,
+          "y": 10.5566769
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.4209747,
+          "y": 9.270958
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 14.98008,
+          "y": 9.315948
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 86,
+        "sceneName": "Ruins2_10b",
+        "pname": "HK_platform_small",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 11.590744,
+          "y": 14.4599285
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 22.6567,
+          "y": 31.5407867
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.8326,
+          "y": 32.0058136
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 174,
+        "sceneName": "Ruins2_10b",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 10.8057461,
+          "y": 30.8249779
+        }
+      }
+    ]
+  }
+}
